@@ -1,15 +1,13 @@
 ![banner png](https://github.com/user-attachments/assets/6f09552a-14a3-4dcf-97ba-81408894731d)
-- 👋 Hi, I’m @himatejacherukumalli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...!
+🚀 Passionate about building the future, one line of code at a time.
 
+👨‍💻 Turning coffee into code since [2023].
 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛠️ Exploring tech, solving problems, and having fun along the way!
 
-<!---
-himatejachowdary/himatejachowdary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📊 Data whisperer • UI dreamer • API tamer
+
+💡 Creator | Coder | Collaborator
+
+🌟 Sharing my journey, one commit at a time!
+
